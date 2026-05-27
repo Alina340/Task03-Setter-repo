@@ -1,5 +1,8 @@
 package com.example.Tema_Setter_Injection.common;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class CardPayment implements PaymentService{
 
     @Override

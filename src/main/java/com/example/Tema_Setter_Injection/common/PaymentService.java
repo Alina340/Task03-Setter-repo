@@ -1,4 +1,4 @@
-package com.example.Tema_Setter_Injection;
+package com.example.Tema_Setter_Injection.common;
 
 public interface PaymentService {
 
